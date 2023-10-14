@@ -1,8 +1,10 @@
+package seminar1;
+
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 
-// Создаем класс MyTest, в котором будут размещены тесты
+// Создаем класс seminar1.MyTest, в котором будут размещены тесты
 public class MyTest {
     // Аннотация @Test указывает, что метод testAssertions() является тестовым методом
     @Test

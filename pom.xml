@@ -14,6 +14,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <!--    Создайте новый проект Maven:-->
+    <!--    Вы можете использовать команду Maven для
+    создания нового проекта или создать его с помощью
+    IDE (например, IntelliJ IDEA или Eclipse).-->
     <dependencies>
         <!-- Да, для использования JUnit Jupiter (JUnit 5)
         в ваших тестах в Java необходимо добавить соответствующую

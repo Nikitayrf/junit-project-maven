@@ -1,4 +1,4 @@
-package assertThat;
+package seminar1.assertThat;
 
 import java.util.ArrayList;
 import java.util.List;
